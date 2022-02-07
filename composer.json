@@ -3,9 +3,7 @@
   "description": "Full Package for PHP web app",
   "type": "library",
   "require": {
-    "php": ">=5.0"
-  },
-   "require-dev": {
+    "php": ">=5.0",
     "litto/mysql": "v1.0",
     "litto/pagination": "v1.0",
     "litto/captcha": "v3.0",
