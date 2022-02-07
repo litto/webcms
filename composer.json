@@ -11,7 +11,10 @@
     "litto/utilities": "v1.0",
     "litto/uploader": "v1.0",
     "litto/message": "v2.0",
-    "litto/passwordencryptor": "v1.0"
+    "litto/passwordencryptor": "v1.0",
+    "litto/google-signin": "v1.0",
+    "litto/facebook-signin": "v1.0",
+    "litto/discord-signin": "v1.0"
   },
   "autoload": {
     "psr-4": {
