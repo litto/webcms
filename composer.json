@@ -1,0 +1,31 @@
+{
+  "name": "litto/webcms",
+  "description": "Full Package for PHP web app",
+  "type": "library",
+  "require": {
+    "php": ">=5.0"
+  },
+   "require-dev": {
+    "litto/mysql": "v1.0",
+    "litto/pagination": "v1.0",
+    "litto/captcha": "v3.0",
+    "litto/validator": "v1.0",
+    "litto/utilities": "v1.0",
+    "litto/uploader": "v1.0",
+    "litto/message": "v2.0",
+  },
+  "autoload": {
+    "psr-4": {
+      "Message\\": ""
+    }
+    },
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Litto Chacko",
+      "email": "littochackomp@gmail.com"
+    }
+  ]
+}
+
