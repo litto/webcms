@@ -5,8 +5,7 @@ Package Including all the Libraries for creating a website
 
 Install it via composer
 
-composer require litto/webcms:dev-main
-
+composer require litto/webcms:v2.0
 ## What Includes in this Package?
 
 This repo will contain all the necessary packages for making a php web app
