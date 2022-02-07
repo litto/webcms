@@ -12,7 +12,7 @@
     "litto/validator": "v1.0",
     "litto/utilities": "v1.0",
     "litto/uploader": "v1.0",
-    "litto/message": "v2.0",
+    "litto/message": "v2.0"
   },
   "autoload": {
     "psr-4": {
