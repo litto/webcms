@@ -5,7 +5,7 @@ Package Including all the Libraries for creating a website
 
 Install it via composer
 
-composer require littp/webcms:v1.0
+composer require litto/webcms:dev-main
 
 ## What Includes in this Package?
 
